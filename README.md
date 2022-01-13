@@ -1,6 +1,6 @@
 # job4j_dreamjob
 
-[![Build Status](https://app.travis-ci.com/AlekseySapsay/job4j_grabber.svg?branch=master)](https://app.travis-ci.com/AlekseySapsay/job4j_grabber)
-[![codecov](https://codecov.io/gh/AlekseySapsay/job4j_grabber/branch/master/graph/badge.svg?token=TL4J4BGHTJ)](https://codecov.io/gh/AlekseySapsay/job4j_grabber)
+[![Build Status](https://app.travis-ci.com/vetir/job4j_dreamjob.svg?branch=master)](https://app.travis-ci.com/vetir/job4j_dreamjob)
+[![codecov](https://codecov.io/gh/vetir/job4j_dreamjob/branch/master/graph/badge.svg?token=TL4J4BGHTJ)](https://codecov.io/gh/vetir/job4j_dreamjob)
 #junior
 Продвинутый проект курса Junior

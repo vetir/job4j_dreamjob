@@ -44,7 +44,7 @@
                     </tr>
                     </thead>
                     <tbody>
-                    <% for (Post post : Store.instOf().findAll()) { %>
+                    <% for (Post post : Store.instOf().findAllPosts()) { %>
                     <tr>
                         <td>
                             <a href="<%=request.getContextPath()%>/post/edit.jsp?id=<%=post.getId()%>">
